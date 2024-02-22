@@ -4,10 +4,10 @@
   "name": "Breakthrough",
   "resources": [
     {"id":{"name":"obj_Brick","path":"objects/obj_Brick/obj_Brick.yy",},"order":0,},
-    {"id":{"name":"spr_Bat","path":"sprites/spr_Bat/spr_Bat.yy",},"order":2,},
+    {"id":{"name":"spr_Bat","path":"sprites/spr_Bat/spr_Bat.yy",},"order":1,},
     {"id":{"name":"spr_Brick","path":"sprites/spr_Brick/spr_Brick.yy",},"order":0,},
     {"id":{"name":"obj_Ball","path":"objects/obj_Ball/obj_Ball.yy",},"order":1,},
-    {"id":{"name":"spr_Ball","path":"sprites/spr_Ball/spr_Ball.yy",},"order":1,},
+    {"id":{"name":"spr_Ball","path":"sprites/spr_Ball/spr_Ball.yy",},"order":2,},
     {"id":{"name":"obj_Bat","path":"objects/obj_Bat/obj_Bat.yy",},"order":2,},
     {"id":{"name":"rm_Game","path":"rooms/rm_Game/rm_Game.yy",},"order":0,},
   ],
