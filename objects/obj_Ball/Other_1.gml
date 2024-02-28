@@ -7,5 +7,14 @@ if(bbox_top < 0){
 }
 
 if(bbox_bottom > room_height){
-	//subtract a life
+	global.player_lives -=1;
+	instance_destroy();
+	if(global.player_lives <= 0){
+		obj_Controll.gameover = true
+			if(global.player_score > global.high_score){
+				global.high_score = global.player_score;
+		}
+	} else {
+		instance_create_layer(xstart, ystart, "Instances", obj_Ball);
+	}
 }
