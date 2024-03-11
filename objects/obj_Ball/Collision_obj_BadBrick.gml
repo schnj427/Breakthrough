@@ -1,6 +1,6 @@
 move_bounce_all(true);
 
-global.player_score += 100;
-speed += 0.2;
+global.player_score += 500;
+speed *= 1.5;
 
 instance_destroy(other);

@@ -4,6 +4,7 @@
   "name": "Breakthrough",
   "resources": [
     {"id":{"name":"obj_Brick","path":"objects/obj_Brick/obj_Brick.yy",},"order":0,},
+    {"id":{"name":"spr_BadBrick","path":"sprites/spr_BadBrick/spr_BadBrick.yy",},"order":4,},
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},"order":0,},
     {"id":{"name":"spr_Bat","path":"sprites/spr_Bat/spr_Bat.yy",},"order":1,},
     {"id":{"name":"spr_Brick","path":"sprites/spr_Brick/spr_Brick.yy",},"order":0,},
@@ -12,6 +13,7 @@
     {"id":{"name":"obj_Bat","path":"objects/obj_Bat/obj_Bat.yy",},"order":2,},
     {"id":{"name":"spr_Powers","path":"sprites/spr_Powers/spr_Powers.yy",},"order":3,},
     {"id":{"name":"lvl_2","path":"rooms/lvl_2/lvl_2.yy",},"order":1,},
+    {"id":{"name":"obj_BadBrick","path":"objects/obj_BadBrick/obj_BadBrick.yy",},"order":5,},
     {"id":{"name":"obj_Powers","path":"objects/obj_Powers/obj_Powers.yy",},"order":4,},
     {"id":{"name":"obj_Controll","path":"objects/obj_Controll/obj_Controll.yy",},"order":3,},
     {"id":{"name":"lvl_1","path":"rooms/lvl_1/lvl_1.yy",},"order":0,},
