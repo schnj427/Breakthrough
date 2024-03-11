@@ -1,5 +1,5 @@
-if(instance_number(obj_Brick) <= 0){
-	room_restart();
+if(instance_number(obj_Brick) = 0){
+	room_goto_next()
 }
 
 
