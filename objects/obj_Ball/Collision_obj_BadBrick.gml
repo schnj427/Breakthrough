@@ -4,3 +4,5 @@ global.player_score += 500;
 speed *= 1.5;
 
 instance_destroy(other);
+
+global.player_lives += 1
